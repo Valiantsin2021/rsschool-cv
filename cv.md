@@ -2,7 +2,7 @@
 
 # Valiantsin Lutchanka
 
-## Manager
+## Contacts
 
 Phone number:			+34 662 250 565 (WhatsApp, Viber)
 
