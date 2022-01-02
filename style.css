@@ -1,4 +1,32 @@
-.textblock{
-    background-color: aquamarine;
+.nav ul {
+    background: #D4E7EE;
+    overflow: hidden;
+    padding: 0;
+  }
+  .nav li {
+    float: left;
+  }
+  .nav a {
     display: block;
-    width: 56px;}
+    padding: 1em;
+    border-right: 1px solid #ADC0CE;
+    background: rgba(173, 192, 206, .3);
+    color: #29838C;
+  }
+  .nav a:hover {background: #ADC0CE}
+.h1{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin-top: 90px;
+}
+.main{
+    background-color: #a8d4d8;
+}
+.footer{
+    display: flex;
+    background-color: #ADC0CE;
+    color: #29838C;
+    flex-direction:row;
+    justify-content: space-between;
+}
